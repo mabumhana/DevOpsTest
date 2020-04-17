@@ -6,5 +6,6 @@ public class Main {
         System.out.println("user1_x : "+user1_x);
         int devops3 = 8;
         int devops4 = 9;
+        int devops5 =10;
     }
 }
