@@ -4,5 +4,6 @@ public class Main {
         System.out.println("master_x : "+master_x);
         int user1_x = 6;
         System.out.println("user1_x : "+user1_x);
+        int devops3 = 8;
     }
 }
