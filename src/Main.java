@@ -5,5 +5,6 @@ public class Main {
         int user1_x = 6;
         System.out.println("user1_x : "+user1_x);
         int devops3 = 8;
+        int devops4 = 9;
     }
 }
